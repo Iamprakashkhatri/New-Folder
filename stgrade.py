@@ -56,13 +56,15 @@ def overall_cal(st_list):
 def printstrecord():
     for student in st_list:
         print(student)
-        print("prakash khatri")
+        
         
 
 st_record()
 printstrecord()
 overall_cal(st_list)
 i=0
+for i in range(i,3):
+    print("hello world")
 
 
     
